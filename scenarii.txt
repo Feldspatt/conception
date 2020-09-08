@@ -1,0 +1,10 @@
+Scénario principal:
+1-Employé indique au système la référence de l'usager.
+2-Système trouve l'usager dans sa base de données.
+3-Employé indique au système la référence du document.
+4-Système reconnaît le document référencé.
+5-Système génère une fiche de prêt.
+
+Scénario secondaire:
+2-Système ne trouve pas la référence de l'usager.
+3-Employé actualise la référence de l'usager (met à jour abonnement...).
